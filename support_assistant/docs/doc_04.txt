@@ -1,0 +1,2 @@
+Zepto Tracking Policy:
+Live GPS tracking activates once the order leaves the dark store.
